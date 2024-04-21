@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 </div>
-### :hammer_and_wrench: Languages and Tools
+<h4>:hammer_and_wrench: Languages and Tools</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
